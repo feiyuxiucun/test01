@@ -2,3 +2,4 @@ agafd
 agafdfa
 nihao a 
 hellpo
+Creating a new branch is quick & simple.
